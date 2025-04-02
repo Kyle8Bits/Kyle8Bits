@@ -68,6 +68,8 @@
 
 ###
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kyle8Bits&theme=onedark)](https://github.com/Kyle8Bits/github-profile-trophy)
+<br clear="both">
 <img src="https://raw.githubusercontent.com/Kyle8Bits/Kyle8Bits/output/snake.svg" alt="Snake animation" />
 
 ###
