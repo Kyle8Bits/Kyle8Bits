@@ -67,13 +67,10 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/Kyle8Bits/Kyle8Bits/output/snake.svg" alt="Snake animation" />
+
+###
 
 ![](https://github-readme-stats.vercel.app/api?username=Kyle8Bits&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kyle8Bits&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle8Bits&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Kyle8Bits/Kyle8Bits/output/snake.svg" alt="Snake animation" />
-
-###
